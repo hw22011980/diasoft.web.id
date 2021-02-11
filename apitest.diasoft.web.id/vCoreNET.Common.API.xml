@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI</name>
+    </assembly>
+    <members>
+        <member name="M:CoreNET.Common.API.AuthController.Post(CoreNET.Common.API.UserLoginDto)">
+            <summary>
+            Endpoint untuk otentikasi user
+            </summary>
+            <param name="dto"></param>
+            <response code="200">User terotentikasi</response>
+            <response code="401">User tidak terotentikasi</response>
+            <returns></returns>
+        </member>
+        <member name="M:CoreNET.Common.API.FileController.Write(CoreNET.Common.Lib.FilePayload)">
+            <summary>
+            Display list of modules
+            </summary>
+            <remarks>
+            Display list of modules
+            Example URL:
+            http://localhost/api/file/write
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="T:CoreNET.Common.API.UserLoginDto">
+            <example>
+            UserId: tester
+            Password: 1
+            </example>
+        </member>
+    </members>
+</doc>
