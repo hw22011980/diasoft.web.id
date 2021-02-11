@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/FormArmada.aspx" hash="48f8842a" filehash="161f364aa6d5058a" flags="110000" assembly="App_Web_formarmada.aspx.cdcab7d2" type="ASP.formarmada_aspx">
+    <filedeps>
+        <filedep name="/FormArmada.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

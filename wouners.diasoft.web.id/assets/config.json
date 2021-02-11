@@ -1,0 +1,7 @@
+[
+  {"name" : "static", "value" : 1},
+  {"name" : "tmenu", "value" : 1},
+  {"name" : "title", "value" : "Wouners"},
+  {"name" : "baseURL", "value" : ""},
+  {"name" : "apiBaseURL", "value" : "http://localhost/api/api"}
+]

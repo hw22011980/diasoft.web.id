@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/Monitoring.aspx" hash="48f8842a" filehash="79b91e724dfd4467" flags="110000" assembly="App_Web_monitoring.aspx.cdcab7d2" type="ASP.monitoring_aspx">
+    <filedeps>
+        <filedep name="/Monitoring.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

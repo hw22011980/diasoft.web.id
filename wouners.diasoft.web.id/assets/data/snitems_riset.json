@@ -1,0 +1,98 @@
+{
+  "1.1.": {
+    "icon": "table",
+    "text": "Main",
+    "link": "/dashboard",
+    "submenu": null
+  },
+  "2.1.": {
+    "icon": "table",
+    "text": "Component",
+    "submenu": [
+      {
+        "icon": "table",
+        "text": "Chart",
+        "link": "/dashboard",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Table",
+        "link": "/tables",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Detail",
+        "link": "/details/2.1.",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "List",
+        "link": "/details/2.2.",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Gallery",
+        "link": "/details/2.3.",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Accordian",
+        "link": "/tables",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Process",
+        "link": "/tables",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Registration",
+        "link": "/tables",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Biodata",
+        "link": "/tables",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Form",
+        "link": "/tables",
+        "submenu": null
+      }
+    ]
+  },
+  "2.2.": {
+    "icon": "table",
+    "text": "Navigation",
+    "link": "",
+    "submenu": null
+  },
+  "2.3.": {
+    "icon": "table",
+    "text": "Authentication",
+    "link": "",
+    "submenu": null
+  },
+  "2.4.": {
+    "icon": "table",
+    "text": "Error",
+    "link": "",
+    "submenu": null
+  },
+  "3.1.": {
+    "icon": "table",
+    "text": "Logout",
+    "link": "/auth/login",
+    "submenu": null
+  }
+}

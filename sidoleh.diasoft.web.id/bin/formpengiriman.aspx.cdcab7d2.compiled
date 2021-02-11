@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/FormPengiriman.aspx" hash="48f8842a" filehash="ea8dd344a2e77fc4" flags="110000" assembly="App_Web_formpengiriman.aspx.cdcab7d2" type="ASP.formpengiriman_aspx">
+    <filedeps>
+        <filedep name="/FormPengiriman.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

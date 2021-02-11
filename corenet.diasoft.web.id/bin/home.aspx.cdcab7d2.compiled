@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/WebCMS/Home.aspx" hash="fffffff004e2faca" filehash="b7eaa955213e2d9c" flags="110000" assembly="App_Web_home.aspx.cdcab7d2" type="ASP.home_aspx">
+    <filedeps>
+        <filedep name="/WebCMS/Home.aspx" />
+        <filedep name="/WebCMS/Home.aspx.cs" />
+    </filedeps>
+</preserve>

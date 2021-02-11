@@ -1,0 +1,44 @@
+{
+  "1.1.": {
+    "icon": "table",
+    "text": "Main",
+    "link": "/dashboard",
+    "submenu": null
+  },
+  "2.1.": {
+    "icon": "table",
+    "text": "Data Master",
+    "submenu": [
+      {
+        "icon": "table",
+        "text": "Ruang",
+        "link": "/details/2.1.1",
+        "submenu": null
+      },
+      {
+        "icon": "table",
+        "text": "Pasien",
+        "link": "/tables",
+        "submenu": null
+      }
+    ]
+  },
+  "2.2.": {
+    "icon": "table",
+    "text": "Pasien",
+    "link": "/details/2.2",
+    "submenu": null
+  },
+  "2.3.": {
+    "icon": "table",
+    "text": "Medical Record",
+    "link": "",
+    "submenu": null
+  },
+  "3.1.": {
+    "icon": "table",
+    "text": "Logout",
+    "link": "/auth/login",
+    "submenu": null
+  }
+}

@@ -1,0 +1,34 @@
+[
+	{
+		"id":"D67853A0-56ED-40E6-9C28-FA3340EDB41E",
+		"name":"ABGPedia", 
+		"url_home":"http://www.eprimos.com/abg/",
+		"url_contents":"http://www.eprimos.com/mob1/",
+		"url_about":"http://ng.diasoft.web.id/"
+	}, 
+	{
+		"id":"9DFBE98B-656A-4D58-8FEC-B2A6C00F6E5F",
+		"name":"ABGBrowser", 
+		"url_home":"http://www.eprimos.com/mob1/"
+	}, 
+	{
+		"id":"13371428-0848-4C15-8CC5-73AE1951447D",
+		"name":"ABGPlatform", 
+		"url_home":"http://www.eprimos.com/abg/about.html"
+	}, 
+	{
+		"id":"B7ED9488-2A8F-436E-B30C-8DDE44215138",
+		"name":"Wouners", 
+		"url_home":"http://www.eprimos.com/mob1/"
+	}, 
+	{
+		"id":"BED168D3-237B-443B-94E7-BAC6DC4FC382",
+		"name":"Sidoleh", 
+		"url_home":"http://www.eprimos.com/mob1/"
+	}, 
+	{
+		"id":"62347EC6-89A0-48F6-B714-149F0719F3F5",
+		"name":"DianaOLS", 
+		"url_home":"http://www.eprimos.com/mob1/"
+	} 
+]

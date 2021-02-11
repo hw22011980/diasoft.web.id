@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/FormKandang.aspx" hash="48f8842a" filehash="b044adc26502a45c" flags="110000" assembly="App_Web_formkandang.aspx.cdcab7d2" type="ASP.formkandang_aspx">
+    <filedeps>
+        <filedep name="/FormKandang.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

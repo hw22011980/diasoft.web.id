@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/FormKonsumen.aspx" hash="48f8842a" filehash="efff276dfda18a64" flags="110000" assembly="App_Web_formkonsumen.aspx.cdcab7d2" type="ASP.formkonsumen_aspx">
+    <filedeps>
+        <filedep name="/FormKonsumen.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

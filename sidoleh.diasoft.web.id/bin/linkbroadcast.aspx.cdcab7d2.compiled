@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/LinkBroadCast.aspx" hash="48f8842a" filehash="1c0c3c85c97a0aa5" flags="110000" assembly="App_Web_linkbroadcast.aspx.cdcab7d2" type="ASP.linkbroadcast_aspx">
+    <filedeps>
+        <filedep name="/LinkBroadCast.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/FormRecording.aspx" hash="48f8842a" filehash="5cfdef7d4a6266ef" flags="110000" assembly="App_Web_formrecording.aspx.cdcab7d2" type="ASP.formrecording_aspx">
+    <filedeps>
+        <filedep name="/FormRecording.aspx" />
+        <filedep name="/Site.Master" />
+    </filedeps>
+</preserve>

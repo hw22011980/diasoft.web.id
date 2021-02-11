@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ChSync.Common.SqlWebSyncService" CodeBehind="SqlWebSyncService.cs" %>

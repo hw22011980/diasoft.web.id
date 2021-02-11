@@ -1,0 +1,17 @@
+Assalaamu'alaikum {0}.
+
+Hewan dengan informasi:
+No.Faktur={1} 
+Jenis Pengiriman={3} 
+Nama Penerima={6} 
+Alamat Penerima={7} 
+Telepon Penerima={8} 
+
+Mesjid={9} 
+Qurban atas nama={0} 
+
+Sedang disiapkan untuk dikirim
+Tgl.Kirim={5} 
+Perkiraan Waktu Kirim={10} 
+
+Terima kasih.

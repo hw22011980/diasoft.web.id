@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/FTPViewer.aspx" hash="48f8842a" filehash="fffff2de2289532d" flags="110000" assembly="App_Web_ftpviewer.aspx.cdcab7d2" type="ASP.ftpviewer_aspx">
+    <filedeps>
+        <filedep name="/FTPViewer.aspx" />
+    </filedeps>
+</preserve>
